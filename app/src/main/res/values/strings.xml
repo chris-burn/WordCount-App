@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordCount App</string>
+    <string name="question">Words to Count!</string>
+    <string name="button">Count</string>
+</resources>
